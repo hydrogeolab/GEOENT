@@ -1,15 +1,5 @@
 # GEOENT
 
-   ,ad8888ba,   88888888888    ,ad8888ba,    88888888888  888b      88  888888888888  
-  d8"'    `"8b  88            d8"'    `"8b   88           8888b     88       88       
- d8'            88           d8'        `8b  88           88 `8b    88       88       
- 88             88aaaaa      88          88  88aaaaa      88  `8b   88       88       
- 88      88888  88"""""      88          88  88"""""      88   `8b  88       88       
- Y8,        88  88           Y8,        ,8P  88           88    `8b 88       88       
-  Y8a.    .a88  88            Y8a.    .a8P   88           88     `8888       88       
-   `"Y88888P"   88888888888    `"Y8888Y"'    88888888888  88      `888       88         
-                                                      
-                                                     
 GEOENT is a Geological Entropy toolbox to calculate anisotropic entrograms of 2-D or 3-D gridded datasets and the "relative entropy HR0" and "entropic scale Hs".
 by Daniele Pedretti (daniele.pedretti@unimi.it) and Marco Bianchi (marcob@bgs.ac.uk)
 
