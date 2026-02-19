@@ -4,7 +4,7 @@ GEOENT is a Geological Entropy toolbox to calculate anisotropic entrograms of 2-
 by Daniele Pedretti (daniele.pedretti@unimi.it) and Marco Bianchi (marcob@bgs.ac.uk)
 
 Thank you for using GEOENT for your research! Please give appropriate credit by citing 
-- Pedretti and Bianchi (2022) "GEOENT, a toolbox for calculating directional geological entropy". Submitted to MDPI Geosciences. 
+- Pedretti and Bianchi (2022) "GEOENT, a toolbox for calculating directional geological entropy". Geosciences 2022, 12(5), 206, doi:10.3390/geosciences12050206
 - Bianchi, M.; Pedretti, D. Geological Entropy and Solute Transport in Heterogeneous Porous Media. Water Resources Research 2017, 53, 4691–4708, doi:10.1002/2016WR020195.
 - Bianchi, M.; Pedretti, D. An Entrogram-Based Approach to Describe Spatial Heterogeneity With Applications to Solute Transport in Porous Media. Water Resources Research 2018, 54, 4432–4448, doi:10.1029/2018WR022827.
 
